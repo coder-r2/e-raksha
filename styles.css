@@ -26,10 +26,11 @@ a:hover {
   color: #11999E;
 }
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #D2FAFA 6px;
   border-bottom: none;
   width: 4%;
   margin: 50px auto;
+  clear: both;
 }
 .top-container {
   background-color: #E4F6F6;
